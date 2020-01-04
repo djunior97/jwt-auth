@@ -1,2 +1,3 @@
-# start-api-node
- Initial Structure of a NodeJS Project
+# jwt-auth
+ A jwt-auth model for study purposes
+ 
